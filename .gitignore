@@ -11,7 +11,7 @@ __pycache__/
 build/
 images/
 checkpoints/
-datasets/
+dataset/
 develop-eggs/
 dist/
 downloads/
