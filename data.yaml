@@ -1,14 +1,8 @@
 names:
 - Trophozoite
+- NEG
 - WBC
-nc: 2
-test: /home/sagemaker-user/lacuna-Malaraia-Detection/dataset/images/test
-train: /home/sagemaker-user/lacuna-Malaraia-Detection/dataset/images/train
-val: /home/sagemaker-user/lacuna-Malaraia-Detection/dataset/images/val
-names:
-- Trophozoite
-- WBC
-nc: 2
+nc: 3
 test: /home/sagemaker-user/lacuna-Malaraia-Detection/dataset/images/test
 train: /home/sagemaker-user/lacuna-Malaraia-Detection/dataset/images/train
 val: /home/sagemaker-user/lacuna-Malaraia-Detection/dataset/images/val
